@@ -8,4 +8,3 @@ print("Kolegij", ime_kolegija ,'nosi',broj_bodova, 'ECTS bodova')
 
 
 
-
